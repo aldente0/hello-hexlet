@@ -3,6 +3,7 @@
     "description": "Small talk with Hexlet",
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
+    "version": "0.0.1",
     "bin": [
         "./sayHi",
         "./sayBye"
